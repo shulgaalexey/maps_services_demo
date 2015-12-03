@@ -11,7 +11,14 @@ WIth all that great features, Tizen 2.4 supports HERE Maps as the Service Provid
 
 Reference
 ---------
-https://www.youtube.com/watch?v=28JQK7ouP64 starting from 1 min 03 sec
+
+Guide: https://developer.tizen.org/development/guides/native-application/location/maps-service
+
+Tutorial: https://developer.tizen.org/development/tutorials/native-application/location/maps-service
+
+API References: https://developer.tizen.org/development/api-references/ navigate to 2.4 API References -> Native Application ->Mobile Native -> Native API Reference -> Location -> Maps Service
+
+SDK Introduction on Youtube: https://www.youtube.com/watch?v=28JQK7ouP64 starting from 1 min 03 sec
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=28JQK7ouP64
 " target="_blank"><img src="http://img.youtube.com/vi/28JQK7ouP64/0.jpg" 
