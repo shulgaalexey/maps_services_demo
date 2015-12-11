@@ -11,15 +11,26 @@ With Maps Service API you can add the following features to your app: Geocoding,
 With all that great features, Tizen 2.4 supports HERE Maps as the Service Provider.
 
 
-Reference
----------
+Publications (Tip&Tech on developer.tizen.org)
+----------------------------------------------
+* How to Use Tizen Native Geocode API in 3 Steps: https://developer.tizen.org/community/tip-tech/how-use-tizen-native-geocode-api-3-simple-steps
+* How to Use the Tizen Native Reverse Geocode API in 3 Steps: https://developer.tizen.org/community/tip-tech/how-use-tizen-native-reverse-geocode-api-3-steps
+* How to Use the Tizen Native Place API in 4 Steps: https://developer.tizen.org/community/tip-tech/how-use-tizen-native-place-api-4-steps
+*How to Use the Tizen Native Route API in 3 Steps: https://developer.tizen.org/community/tip-tech/how-use-tizen-native-route-api-3-steps
 
-Guide: https://developer.tizen.org/development/guides/native-application/location/maps-service
+Documentation
+-------------
+*API Reference: https://developer.tizen.org/development/api-references/, go to 2.4 API References -> Native Application ->Mobile Native -> Native API Reference -> Location -> Maps Service.
+* Guide: https://developer.tizen.org/development/guides/native-application/location/maps-service
+*Tutorial: https://developer.tizen.org/development/tutorials/native-application/location/maps-service
 
-Tutorial: https://developer.tizen.org/development/tutorials/native-application/location/maps-service
+Source Code
+-----------
+* Tizen 3.0: https://review.tizen.org/git/?p=platform/core/api/maps-service.git
+* Tizen 2.4 SDK: https://review.tizen.org/gerrit/gitweb?p=framework/location/maps-service.git;a=summary
 
-API References: https://developer.tizen.org/development/api-references/ navigate to 2.4 API References -> Native Application ->Mobile Native -> Native API Reference -> Location -> Maps Service
-
+Video
+-----
 SDK Introduction on Youtube: https://www.youtube.com/watch?v=28JQK7ouP64 starting from 1 min 03 sec
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=28JQK7ouP64
