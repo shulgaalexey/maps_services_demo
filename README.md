@@ -24,6 +24,14 @@ Documentation
 * Guide: https://developer.tizen.org/development/guides/native-application/location/maps-service
 *Tutorial: https://developer.tizen.org/development/tutorials/native-application/location/maps-service
 
+Examples on Github
+------------------
+Geocode API Demo: https://github.com/shulgaalexey/geocoder
+Reverse Geocode API Demo: https://github.com/shulgaalexey/reverse_geocoder
+Place API Demo: https://github.com/shulgaalexey/place_search
+Route API Demo: https://github.com/shulgaalexey/route_search
+
+
 Source Code
 -----------
 * Tizen 3.0: https://review.tizen.org/git/?p=platform/core/api/maps-service.git
