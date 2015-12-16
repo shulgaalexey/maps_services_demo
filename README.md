@@ -20,16 +20,16 @@ Publications (Tip&Tech on developer.tizen.org)
 
 Documentation
 -------------
-*API Reference: https://developer.tizen.org/development/api-references/, go to 2.4 API References -> Native Application ->Mobile Native -> Native API Reference -> Location -> Maps Service.
+* API Reference: https://developer.tizen.org/development/api-references/, go to 2.4 API References -> Native Application ->Mobile Native -> Native API Reference -> Location -> Maps Service.
 * Guide: https://developer.tizen.org/development/guides/native-application/location/maps-service
-*Tutorial: https://developer.tizen.org/development/tutorials/native-application/location/maps-service
+* Tutorial: https://developer.tizen.org/development/tutorials/native-application/location/maps-service
 
 Examples on Github
 ------------------
-Geocode API Demo: https://github.com/shulgaalexey/geocoder
-Reverse Geocode API Demo: https://github.com/shulgaalexey/reverse_geocoder
-Place API Demo: https://github.com/shulgaalexey/place_search
-Route API Demo: https://github.com/shulgaalexey/route_search
+* Geocode API Demo: https://github.com/shulgaalexey/geocoder
+* Reverse Geocode API Demo: https://github.com/shulgaalexey/reverse_geocoder
+* Place API Demo: https://github.com/shulgaalexey/place_search
+* Route API Demo: https://github.com/shulgaalexey/route_search
 
 
 Source Code
