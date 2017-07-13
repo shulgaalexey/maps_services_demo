@@ -1,5 +1,6 @@
-# maps_services_demo
-Demonstration of Tizen 2.4 Natice Maps Service API
+# Maps Services Demo
+
+Demonstration of Tizen 2.4 Native Maps Service API
 
 Overview
 --------
@@ -44,3 +45,8 @@ SDK Introduction on Youtube: https://www.youtube.com/watch?v=28JQK7ouP64 startin
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=28JQK7ouP64
 " target="_blank"><img src="http://img.youtube.com/vi/28JQK7ouP64/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+--------------------
+
+[home](http://shulgaalexey.github.io/maps_services_demo/)
